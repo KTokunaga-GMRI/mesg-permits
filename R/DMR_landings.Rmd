@@ -1,0 +1,11 @@
+---
+title: "Landings statistics"
+author: "Kanae Tokunaga"
+date: "2024-05-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(ggplot2)
+```
